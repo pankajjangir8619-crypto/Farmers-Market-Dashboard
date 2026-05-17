@@ -7,13 +7,17 @@ The Farmers Market Dashboard is an interactive business intelligence project dev
 The project is designed to support data-driven decision-making for farmers markets and retail businesses by transforming raw data into meaningful insights.
 
 🎯 Objectives
+
 Analyze overall sales and revenue performance
 Track product demand and category performance
 Monitor customer purchasing behavior
 Evaluate vendor/farmer contributions
 Identify regional sales trends
 Build an interactive and user-friendly dashboard
+
+
 📊 Dashboard KPIs
+
 Sales KPIs
 Total Revenue
 Total Orders
@@ -39,7 +43,10 @@ Regional KPIs
 Region-wise Sales
 Profit by Area
 Market Location Performance
+
+
 📈 Dashboard Features
+
 Interactive Filters & Slicers
 Dynamic KPI Cards
 Sales Trend Analysis
@@ -48,7 +55,10 @@ Regional Sales Mapping
 Vendor Analysis
 Customer Insights
 Clean and Professional UI Design
+
+
 🛠️ Tools & Technologies Used
+
 Microsoft Power BI
 Power Query
 DAX (Data Analysis Expressions)
